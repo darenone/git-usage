@@ -32,7 +32,8 @@ git commit -m 'explain'
 git push origin master
 ```
 **注意**
-<span style="font-size: 14px;">如果你在提交代码时出现以下error，那说明你的代码和别人提交的代码有冲突，这个时候你需要确认进行手动更改</span>
+<p style="font-size: 14px;">如果你在提交代码时出现以下error，那说明你的代码和别人提交的代码有冲突，这个时候你需要确认进行手动更改</p>
+
 ![图片2](./img/solution2.png =100x100)
 
 
