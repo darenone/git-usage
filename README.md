@@ -39,8 +39,7 @@ git push origin master
 
 <h4 id="foot">简介(abstract)</h4>
 #### markdown语法参考
-[markdown简易入门教程][1]{:target="_blank"}
-[1]: https://www.jianshu.com/p/20e82ddb37cb#doc "百度二下"
+
 <p>如果你行入门markdown syntax 请点击一下链接</p>
-[ markdown简易入门教程 ](https://www.jianshu.com/p/20e82ddb37cb#doc)
-[Markdown 语法整理大集合2017](https://www.jianshu.com/p/b03a8d7b1719)
+* <a href="https://www.jianshu.com/p/20e82ddb37cb#doc">markdown简易入门教程</a>
+* <a href="https://www.jianshu.com/p/b03a8d7b1719">Markdown语法整理大集合2017</a>
