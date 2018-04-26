@@ -4,7 +4,7 @@
 * [用法介绍](#introduce)
 	* [新建repository并且push代码](#solution1)
 	* [提交代码时远程库有更新](#solution2)
-
+* [markdown语法参考](#foot)
 
 
 <h4 id="overview">简介(abstract)</h4>
@@ -31,6 +31,12 @@ git add --all
 git commit -m 'explain'
 git push origin master
 ```
+**注意**
+<span style="font-size: 14px;">如果你在提交代码时出现以下error，那说明你的代码和别人提交的代码有冲突，这个时候你需要确认进行手动更改</span>
+![图片2](./img/solution2.png =100x100)
 
+
+<h4 id="foot">简介(abstract)</h4>
 #### markdown语法参考
-如果你行入门markdown syntax 请点击一下链接 <a href="https://www.jianshu.com/p/20e82ddb37cb#doc" target="_blank">markdown简易入门教程</a> [markdown简易入门教程](https://www.jianshu.com/p/20e82ddb37cb#doc)
+<p>如果你行入门markdown syntax 请点击一下链接</p>
+[markdown简易入门教程](https://www.jianshu.com/p/20e82ddb37cb#doc){:target="blank"}
