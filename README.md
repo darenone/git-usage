@@ -41,5 +41,5 @@ git push origin master
 #### markdown语法参考
 
 <p>如果你行入门markdown syntax 请点击一下链接</p>
-* <a href="https://www.jianshu.com/p/20e82ddb37cb#doc">markdown简易入门教程</a>
+* <a href="https://www.jianshu.com/p/20e82ddb37cb#doc">markdown简易入门教程</a><br>
 * <a href="https://www.jianshu.com/p/b03a8d7b1719">Markdown语法整理大集合2017</a>
